@@ -1,0 +1,2 @@
+# Asia.py
+bot
